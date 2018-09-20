@@ -1,0 +1,11 @@
+{
+  "name": "redux-test-01",
+  "version": "1.0.0",
+  "main": "basics.js",
+  "repository": "git@github.com:kjonathante/redux-test-01.git",
+  "author": "Kit Jonathan Te <kjonathante@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
